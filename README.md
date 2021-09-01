@@ -1,4 +1,4 @@
 Hello, I'm @Du5TCh3N
-A Computer Science student studying at King's College London
-I'm interested in video games XD. 
-I'm about to learn multiple articial intelligence courses. 
+- Computer Science BSc with Year in Industry at KCL (2018-present)
+- Year in Industry at Goldman Sachs Technology Internal Audit
+
